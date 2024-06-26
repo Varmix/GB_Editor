@@ -1,0 +1,1 @@
+insert into web1_newsletterMember values (1, 'e@lo.com', 1552947920, 'ab')
