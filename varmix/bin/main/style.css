@@ -1,0 +1,89 @@
+/*Texte au dessus du formlaire de connexion*/
+
+.title-of-mainView {
+	-fx-font-family : Verdana;
+	-fx-font-size : 36px;
+	-fx-text-fill : blue;
+}
+
+.title-of-form {
+	-fx-font-family : "Comic Sans Ms", sans-serif;
+	-fx-font-size : 30px;
+	-fx-text-fill : #6bb8e2;
+	/*-fx-padding : 10, 10, 10, 10;*/
+}
+
+.label-of-form {
+	-fx-font-family : Verdana;
+	-fx-font-size : 14px;
+	-fx-font-weight : bold;
+}
+
+.input-of-form {
+	-fx-font-size : 14px;
+}
+
+.border-form-login {
+	-fx-border-style : solid inside;
+	-fx-border-width : 2;
+	-fx-border-color : #6bb8e2;
+	-fx-border-radius : 5;
+}
+
+.login-button {
+	-fx-background-color: #6bb8e2;
+	-fx-border-style : solid inside;
+	-fx-border-width : 1;
+	-fx-border-color : blue;
+}
+
+.login-button:hover{
+	-fx-background-color: blue;
+	-fx-text-fill : white;
+}
+
+.menu-button {
+	-fx-background-color: #6bb8e2;
+	-fx-border-style : solid inside;
+	-fx-border-width : 1;
+	-fx-border-color : blue;
+	-fx-padding : 12px;
+}
+
+.menu-button:hover{
+	-fx-background-color: blue;
+	-fx-text-fill : white;
+}
+
+.menu-name-author {
+	-fx-font-family : Verdana;
+	-fx-font-size : 20px;
+	-fx-font-weight : bold;
+	-fx-border-style : solid inside;
+	-fx-border-width : 1;
+	-fx-border-color : black;
+	-fx-border-radius : 5;
+}
+
+.alert-user {
+	-fx-font-family : Verdana;
+	-fx-font-weight : bold;
+	-fx-text-fill : red;
+	-fx-font-size : 12px;
+	-fx-wrap-text : true;
+	
+}
+
+.success-user {
+	-fx-font-family : Verdana;
+	-fx-font-weight : bold;
+	-fx-text-fill : green;
+	-fx-font-size : 12px;
+	-fx-wrap-text : true;
+}
+
+.wrap-text {
+	-fx-wrap-text : true;
+}
+
+
